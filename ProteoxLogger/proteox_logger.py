@@ -17,10 +17,10 @@ from influxdb_client.client.write_api import SYNCHRONOUS
 # ============================================================
 # Proteox WAMP settings
 # ============================================================
-WAMP_USER = "Admin_Controller"
-WAMP_USER_SECRET = "cucumber56"
+WAMP_USER = ""
+WAMP_USER_SECRET = ""
 WAMP_REALM = "ucss"
-WAMP_ROUTER_URL = "ws://10.200.0.139:8080/ws"
+WAMP_ROUTER_URL = ""
 
 
 # ============================================================
